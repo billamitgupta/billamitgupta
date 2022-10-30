@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Amit Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0uS_zovb6k-xl6OQvjR325&ust=1667204499619000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPjZiPLCh_sCFQAAAAAdAAAAABAY")
+(img align="right" alt="Coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0uS_zovb6k-https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=billamitgupta&label=Profile%20views&color=0e75b6&style=flat" alt="billamitgupta" /> </p>
 
